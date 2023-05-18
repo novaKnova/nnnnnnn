@@ -20,7 +20,7 @@ body {
 }
 .layer-6 {
      animation: animation_fg linear 100s infinite both; 
-	 background: url(https://github.com/novaKnova/nnnnnnn/blob/main/067a7a3cf9dbed6dd83831307d9c5462.png) 0 100% repeat-x;
+	 background:#6600ff url(https://github.com/novaKnova/nnnnnnn/blob/main/067a7a3cf9dbed6dd83831307d9c5462.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -31,7 +31,8 @@ body {
 }
 .layer-5 {
      animation: animation_fg linear 90s infinite both; 
-	 background: url(https://github.com/novaKnova/nnnnnnn/blob/main/1614579222_71-p-les-na-belom-fone-117.png) 0 100% repeat-x;
+	 background: #0000ff
+         url(https://github.com/novaKnova/nnnnnnn/blob/main/1614579222_71-p-les-na-belom-fone-117.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -42,7 +43,8 @@ body {
 }
 .layer-4 {
      animation: animation_fg linear 70s infinite both; 
-	 background: url(https://github.com/novaKnova/nnnnnnn/blob/main/32-20220208_123944-1536x769.png) 0 100% repeat-x;
+	 background:#423189
+         url(https://github.com/novaKnova/nnnnnnn/blob/main/32-20220208_123944-1536x769.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -53,7 +55,8 @@ body {
 }
 .layer-3 {
      animation: animation_fg linear 65s infinite both; 
-	 background: url(https://github.com/novaKnova/nnnnnnn/blob/main/Fence_Silhouette_PNG_Clip_Art.png) 0 100% repeat-x;
+	 background: #7851A9
+    url(https://github.com/novaKnova/nnnnnnn/blob/main/Fence_Silhouette_PNG_Clip_Art.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -64,7 +67,8 @@ body {
 }
 .layer-2 {
      animation: animation_fg linear 50s infinite both; 
-	 background: url(https://github.com/novaKnova/nnnnnnn/blob/main/7791377bd337e90bd08ad8f3752bf753.png) 0 100% repeat-x;
+	 background: #8673A1
+url(https://github.com/novaKnova/nnnnnnn/blob/main/7791377bd337e90bd08ad8f3752bf753.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -75,7 +79,8 @@ body {
 }
 .layer-1 {
      animation: animation_fg linear 45s infinite both; 
-	 background: url(https://i.ibb.co/z82BrQ3/Mask-group-1200-94.png) 0 100% repeat-x;
+	 background: #46394B
+    url(https://i.ibb.co/z82BrQ3/Mask-group-1200-94.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -85,7 +90,8 @@ body {
 	 background-size: auto 94px;
 }
 .object-1 {
-     background: url(https://github.com/novaKnova/nnnnnnn/blob/main/babochka.png) 0 100% no-repeat;
+     background: #DDA0DD
+    url(https://github.com/novaKnova/nnnnnnn/blob/main/babochka.png) 0 100% no-repeat;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0px;
@@ -96,7 +102,7 @@ body {
 	 animation: animation_object linear 15s infinite both;
 }
 .object-2 {
-     background:  url(https://github.com/novaKnova/nnnnnnn/blob/main/45cdd5c10a06ece2ce5f148b6d627a37.gif) 0 100% no-repeat;
+     background: #DDA0DD url(https://github.com/novaKnova/nnnnnnn/blob/main/45cdd5c10a06ece2ce5f148b6d627a37.gif) 0 100% no-repeat;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 200px;
